@@ -7,8 +7,8 @@ const ExperienceSection = () => {
       title: "Web Applications Developer (Intern)",
       company: "Crud Operations Private Limited",
       location: "Chennai",
-      duration: "July 2024 - october 2024",
-      current: true,
+      duration: "July 2024 - October 2024",
+      current: false,
       responsibilities: [
         "Developed and managed web pages and product listings using WordPress platform",
         "Customized themes and templates to align with client branding",
